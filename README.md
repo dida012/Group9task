@@ -96,7 +96,7 @@ https://www.kaggle.com/datasets/datawitharyan/yahoo-stock-exchange
 - `Measurement_summary.csv` – Raw dataset
 - `Measurement_summary_cleaned.csv` – Cleaned version after preprocessing
 
-### Stock Market Dataset
+### Yahoo Stock Exchange Dataset
 - `yahooStock.csv` – Raw stock price data
 - `yahooStock_cleaned.csv` – Cleaned and prepared dataset
 
