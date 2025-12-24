@@ -38,24 +38,54 @@ Group9task/
 ### 🔹 Assignment1.ipynb
 Tasks:
 – Load the dataset using read_csv or read_excel.
+
+
 – Inspect structure, datatypes, missing values.
+
+
 – Clean and convert data types.
+
+
 – Extract:
+
+
 • top 5 polluted days
+
+
 • hourly/monthly trends
+
+
 • correlation between pollutants
+
+
 – Visualize:
+
+
 • histogram of each pollutant
+
+
 • line plot of pollutant over time
+
+
 – Write a short conclusion summarizing insights.
 
 ### 🔹 Assignment2.ipynb
 
 https://www.kaggle.com/datasets/datawitharyan/yahoo-stock-exchange
+
+
 •Load
+
+
 •Clean 
+
+
 •Explore 
+
+
 •Visualize 
+
+
 •Conclude.
 
 ---
