@@ -6,15 +6,27 @@ This repository contains datasets and Jupyter notebooks for **data cleaning, pre
 
 Group9task/
 │
+
+
 ├── Assignment1.ipynb
+
+
 ├── Assignment2.ipynb
 │
+
 ├── Measurement_summary.csv
+
+
 ├── Measurement_summary_cleaned.csv
 │
+
+
 ├── yahooStock.csv
+
 ├── yahooStock_cleaned.csv
 │
+
+
 ├── README.md
 ├── LICENSE
 
@@ -24,14 +36,27 @@ Group9task/
 ## 📘 Notebooks
 
 ### 🔹 Assignment1.ipynb
-- Initial data exploration
-- Data cleaning techniques
-- Handling missing values and inconsistencies
+Tasks:
+– Load the dataset using read_csv or read_excel.
+– Inspect structure, datatypes, missing values.
+– Clean and convert data types.
+– Extract:
+• top 5 polluted days
+• hourly/monthly trends
+• correlation between pollutants
+– Visualize:
+• histogram of each pollutant
+• line plot of pollutant over time
+– Write a short conclusion summarizing insights.
 
 ### 🔹 Assignment2.ipynb
-- Advanced data preprocessing
-- Feature cleaning and transformation
-- Dataset comparison before and after cleaning
+
+https://www.kaggle.com/datasets/datawitharyan/yahoo-stock-exchange
+•Load
+•Clean 
+•Explore 
+•Visualize 
+•Conclude.
 
 ---
 
